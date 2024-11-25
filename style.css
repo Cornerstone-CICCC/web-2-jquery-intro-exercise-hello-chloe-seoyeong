@@ -15,6 +15,9 @@
 #classDiv {
   background-color: grey;
 }
+#classDiv.new-class {
+  background-color: black;
+}
 #fadeDiv {
   background-color: purple;
   display: none;
